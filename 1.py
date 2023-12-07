@@ -3,5 +3,5 @@ env = getenv("ENVIRONMENT")
 action = getenv("ACTION")
 if env == "dev" and action == "stop":
     print("good")
-if 1 == 1:
+if 66 == 66:
     print("1")
